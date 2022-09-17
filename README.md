@@ -1,7 +1,7 @@
 ### Hello! 👋
 
-- 🔭 I’m Marty, currently in last semester of my Mphys in physics with astrophysics degree at University of Bath.
-- 🌱 My final year project was about deriving non-separable Hamiltonian variational integrators from first principles. It was mostly a theoretical project, with a small simulation element to it, applying the derived integration schemes to different Hamiltonian systems for testing. Hopefully I get around to cleaning up my code and make the repo for it public soon.
+- 🔭 I’m Marty, recently graduated Master in Physics with Astrophysics with a 2.1, currently working as a middle office specialist in an algorithmic crypto trading firm.
+- 🌱 My final year project was about deriving non-separable Hamiltonian variational integrators from first principles. It was mostly a theoretical project, with a small simulation element to it, applying the derived integration schemes to different Hamiltonian systems for testing. Find the repo for it on my page.
 - 👯 Check out the most recent project I collaborated on [https://github.com/georgeamccarthy/CryptoFrontier](https://github.com/georgeamccarthy/CryptoFrontier)
 - 📫 You can reach me at [https://linkedin.com/in/martynas-jurkonis-516807159](https://linkedin.com/in/martynas-jurkonis-516807159)
 
